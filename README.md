@@ -67,7 +67,7 @@ gi# GIT指令集練習
 ### 切換 commit 
 - git checkout commit-sha五碼
 	- 觀察當時的程式碼
-- git checkout naster
+- git checkout master
 
 
 
