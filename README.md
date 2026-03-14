@@ -1,8 +1,9 @@
-gi# GIT指令集練習
+# GIT指令集練習
 
 
 ### Markdown
 - https://hackmd.io/@howkii-studio/markdown_intro
+
 
 ### 檢視版本號
 
@@ -53,7 +54,8 @@ gi# GIT指令集練習
 
 
 ### 加入倉庫
- - git commit -m "專案初始化完成"
+- git commit -m "專案初始化完成"
+- git commit --amend (跟最新commit合併)
 
 ### 檢視倉庫
 - git log
@@ -104,9 +106,11 @@ gi# GIT指令集練習
 ### 推送到雲端
 - git push
 - git push -u origin master (第一次)
-- git push -f
-	- force 強制
 
+
+
+### 複製專案
+- git clone https://github.com/rtw165-sys/git-demo.git(包含.git)
 
 
 ### 從雲端拉取
@@ -116,8 +120,14 @@ gi# GIT指令集練習
 
 
 
-
 ### VSCODE
 - ctrl+shift+p
 -更改終端機
 	- default termial =>cmd.exe
+
+
+
+
+
+
+
