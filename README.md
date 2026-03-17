@@ -8,8 +8,8 @@
 - git version
 
 ### 註冊全域資訊 
-- git config --global user.name jerry
-- git config --global user.email jerry@gmail.com
+- git config --global user.name daisy
+- git config --global user.email rtw165@gmail.com
 
 ### 初始化倉庫
 - git init
@@ -86,7 +86,7 @@
 - github.com
 
 ### 綁訂到雲端倉庫
-- git remote add origin https://github.com/iiiplay/git-demo.git
+- git remote add origin https://github.com/rtw165-sys/git-demo
 
 ### 檢視雲端倉庫網址
 - git remote -v
@@ -98,7 +98,7 @@
 	- force 強制
 
 ### 複製專案
-- git clone https://github.com/iiiplay/git-demo.git
+- git clone https://github.com/rtw165-sys/git-demo.git(包含.git)
 
 
 
