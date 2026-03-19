@@ -86,7 +86,7 @@
 - github.com
 
 ### 綁訂到雲端倉庫
-- git remote add origin https://github.com/rtw165-sys/git-demo
+- git remote add origin https://github.com/rtw165-sys/git-demo.git
 
 ### 檢視雲端倉庫網址
 - git remote -v
