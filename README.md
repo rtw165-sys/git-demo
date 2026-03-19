@@ -112,4 +112,4 @@
 
 
 ### 重置專案的使用權
-- git remote set-url origin https://iiiplay@github.com/iiiplay/git-demo.git
+- git remote set-url origin https://rtw165-sys@github.com/rtw165-sys/html-demo.git
